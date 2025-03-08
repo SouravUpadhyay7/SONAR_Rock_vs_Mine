@@ -1,6 +1,6 @@
 # SONAR Rock vs Mine Classification
 
-![Sonar Classification](https://via.placeholder.com/800x400?text=SONAR+Rock+vs+Mine)  
+![Sonar Classification](SONAR.png)  
 
 This repository contains a machine learning model to classify objects as either **rock** or **mine** using the SONAR dataset. The dataset consists of sonar signals bounced off objects in the water, and the model predicts whether the object is a rock or a mine based on these signals.
 
